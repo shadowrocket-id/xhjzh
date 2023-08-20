@@ -172,6 +172,8 @@ svg {
 table {
   border-collapse: collapse; }
 
+img{height: auto; width: auto\9; width:100%;}
+
 caption {
   padding-top: 0.75rem;
   padding-bottom: 0.75rem;
