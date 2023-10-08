@@ -2,7 +2,7 @@ Shadowrocket 小火箭最新版在线安装， 共享Shadowrocket 小火箭账�
 
 https://v2net.github.io/ios
 
-【1】苹果美区账号 APPLE ID 免费账号共享,
+【1】苹果美区账号 APPLE ID 免费账号共享,<br>
 https://xiaohuojian.shop/
 【2】Shadowrocket小火箭安装包,小火箭下载,小火箭VPN
 https://xiaohuojian.shop/
