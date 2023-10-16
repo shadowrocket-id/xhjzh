@@ -1,6 +1,5 @@
 Shadowrocket 小火箭最新版在线安装， 共享Shadowrocket 小火箭账号，苹果手机SS/SSR/V2Ray客户端
 
-https://v2net.github.io/ios
 
 【1】苹果美区账号 APPLE ID 免费账号共享<br>
 https://xiaohuojian.shop/<br>
